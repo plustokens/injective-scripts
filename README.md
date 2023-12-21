@@ -5,7 +5,7 @@
 1. close this project using git:
 
 ```
-git clone 
+git clone https://github.com/plustokens/injective-scripts.git
 ```
 
 2. install dependencies (open a terminal within the folder)
