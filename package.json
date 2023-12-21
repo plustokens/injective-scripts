@@ -14,7 +14,6 @@
     "@injectivelabs/sdk-ts": "^1.14.4",
     "@injectivelabs/tx-ts": "^1.0.43",
     "@injectivelabs/utils": "^1.14.4",
-    "@injectivelabs/wallet-ts": "^1.14.4",
-    "https": "^1.0.0"
+    "@injectivelabs/wallet-ts": "^1.14.4"
   }
 }
